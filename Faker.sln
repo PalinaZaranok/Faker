@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faker.Core", "Faker.Core\Faker.Core.csproj", "{BDB14D16-8B8B-4D05-9698-0ED0C561640C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faker.Tests", "Faker.Tests\Faker.Tests.csproj", "{8F303AE5-D709-4C1B-9081-924F932D7D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB14D16-8B8B-4D05-9698-0ED0C561640C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB14D16-8B8B-4D05-9698-0ED0C561640C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB14D16-8B8B-4D05-9698-0ED0C561640C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB14D16-8B8B-4D05-9698-0ED0C561640C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F303AE5-D709-4C1B-9081-924F932D7D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F303AE5-D709-4C1B-9081-924F932D7D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F303AE5-D709-4C1B-9081-924F932D7D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F303AE5-D709-4C1B-9081-924F932D7D47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
